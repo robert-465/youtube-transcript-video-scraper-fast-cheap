@@ -1,0 +1,8 @@
+{
+  "input_file": "data/input_urls.sample.json",
+  "output_dir": "data",
+  "output_base_name": "youtube_transcripts",
+  "output_formats": ["json", "csv", "xml", "html"],
+  "log_level": "INFO",
+  "transcript_languages": ["en"]
+}
